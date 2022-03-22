@@ -32,6 +32,12 @@ This project leverages the following tools for financial analysis:
 
 ---
 
+## Output data
+
+`/Models` - alternative models
+
+---
+
 ## Running analisys
 
 1. Open Jupyter lab
