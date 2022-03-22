@@ -1,0 +1,15 @@
+    1  . code
+    2  conda activate dev
+    3  git clone https://github.com/VladislavGlupak/Venture-Funding-with-Deep-Learning.git
+    4  ls
+    5  ls -l
+    6  git status
+    7  git status
+    8  git add .
+    9  git commit -m "initial commit"
+   10  git push
+   11  git status
+   12  git add .
+   13  git commit -m "adding README"
+   14  git push
+   15  history 50 > history.txt

@@ -201,6 +201,8 @@ Loss: 0.5597923398017883, Accuracy: 0.7294460535049438
 
 The accuracy of the model helped to increase (not much) the increasing the number of hidden layers and neurons (model 2).
 
+All models saved in the folder `Models`.
+
 ---
 
 ## Contributors
